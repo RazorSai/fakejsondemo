@@ -1,3 +1,17 @@
 {
-	"posts" : []
+	"posts" : [
+		{
+			"postId" : "1",
+			"postUserId" : "121",
+			"date" : "07/07/2019",
+			"from" : "Saikiran Bait",
+			"fromProfilePic" : "",
+			"description" : "Relief to know that there is someone in times needed. Atleast for now, i don't have to fear for anything",
+			"topic" : "Relief from the situation",
+			"isLiked" : false,
+			"isShared" : false,
+			"sharedDetails" : {},
+			"imageUploaded" : []
+		}
+	]
 }
