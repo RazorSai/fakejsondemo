@@ -13,34 +13,6 @@
 			"isShared" : false,
 			"sharedDetails" : {},
 			"imageUploaded" : []
-		},
-		{
-			"postId" : "2",
-			"postUserId" : "123",
-			"date" : "07/07/2019",
-			"from" : "Kavita Hande",
-			"fromProfilePic" : "",
-			"description" : "I'm happy today because at last, I've started to learn selenium. Next step in upgrading my career.",
-			"topic" : "Learning new technology",
-			"backColor" : "aee7e8",
-			"isLiked" : false,
-			"isShared" : false,
-			"sharedDetails" : {},
-			"imageUploaded" : []
-		},
-		{
-			"postId" : "3",
-			"postUserId" : "121",
-			"date" : "06/07/2019",
-			"from" : "Saikiran Bait",
-			"fromProfilePic" : "",
-			"description" : "My beloved motorcycle has finally completed 3 years of its service. Feeling happy and emotional about it.",
-			"topic" : "3 years complete for my motorcycle!!",
-			"backColor" : "a9c6de",
-			"isLiked" : false,
-			"isShared" : false,
-			"sharedDetails" : {},
-			"imageUploaded" : []
 		}
 	]
 }
