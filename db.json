@@ -12,7 +12,7 @@
 			"isLiked" : false,
 			"isShared" : false,
 			"sharedDetails" : {},
-			"imageUploaded" : []
+			"imageUploaded" : ""
 		},
 		{
 			"postId" : "2",
@@ -26,7 +26,7 @@
 			"isLiked" : false,
 			"isShared" : false,
 			"sharedDetails" : {},
-			"imageUploaded" : []
+			"imageUploaded" : ""
 		},
 		{
 			"postId" : "3",
@@ -40,7 +40,7 @@
 			"isLiked" : false,
 			"isShared" : false,
 			"sharedDetails" : {},
-			"imageUploaded" : []
+			"imageUploaded" : "https://upload.wikimedia.org/wikipedia/commons/9/9b/DeadSpace2logo.jpg"
 		}
 	]
 }
