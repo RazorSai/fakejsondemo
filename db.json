@@ -45,6 +45,8 @@
 	],
 	"groups" : [
 		{
+			"group_id" : "1",
+			"user_created_id" : "1",
 			"name" : "Space and mysteries",
 			"latest_activity" : {
 				"postId" : "1",
