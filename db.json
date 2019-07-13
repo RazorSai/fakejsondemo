@@ -42,5 +42,24 @@
 			"sharedDetails" : {},
 			"imageUploaded" : "https://upload.wikimedia.org/wikipedia/commons/9/9b/DeadSpace2logo.jpg"
 		}
+	],
+	"groups" : [
+		{
+			"name" : "Space and mysteries",
+			"latest_activity" : {
+				"postId" : "1",
+				"postUserId" : "121",
+				"date" : "07/07/2019",
+				"from" : "Saikiran Bait",
+				"fromProfilePic" : "",
+				"description" : "Fermi Paradox is a theory suggested by the Italian-American physicist Enrico Fermi. It deals with the question regarding why human race is not able to visit an intelligent life form till now.",
+				"topic" : "Fermi Paradox",
+				"backColor" : "e2bebe",
+				"isLiked" : false,
+				"isShared" : false,
+				"sharedDetails" : {},
+				"imageUploaded" : ""
+			}
+		}
 	]
 }
