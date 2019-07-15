@@ -102,6 +102,13 @@
 			"imageUploaded" : "https://upload.wikimedia.org/wikipedia/commons/9/9b/DeadSpace2logo.jpg"
 			}
 		],
-		"profile_details" : {}
+		"profile_details" : {
+			"first_name" : "Saikiran",
+			"last_name" : "Bait",
+			"email_id" : "sai@sai.com",
+			"gender" : "Male",
+			"date_of_birth" : "07/05/1999",
+			"mobile_number" : "8286756666" 
+		}
 	}
 }
