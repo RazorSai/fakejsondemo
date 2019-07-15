@@ -56,12 +56,21 @@
 				"fromProfilePic" : "",
 				"description" : "Fermi Paradox is a theory suggested by the Italian-American physicist Enrico Fermi. It deals with the question regarding why human race is not able to visit an intelligent life form till now.",
 				"topic" : "Fermi Paradox",
-				"backColor" : "e2bebe",
+				"backColor" : "b074e9",
 				"isLiked" : false,
 				"isShared" : false,
 				"sharedDetails" : {},
 				"imageUploaded" : ""
 			}
 		}
-	]
+	],
+	"profile" : {
+		"user_details" : {
+			"profile_pic" : "",
+			"post_count" : 10,
+			"followers_count" : 40,
+			"following_count" : 30,
+			"description" : "We're theives in a world that don't want us anymore...."
+		} 
+	}
 }
