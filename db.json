@@ -86,7 +86,7 @@
 			"isShared" : false,
 			"sharedDetails" : {},
 			"imageUploaded" : ""
-		},
+			},
 			{
 			"postId" : "3",
 			"postUserId" : "121",
@@ -100,15 +100,8 @@
 			"isShared" : false,
 			"sharedDetails" : {},
 			"imageUploaded" : "https://upload.wikimedia.org/wikipedia/commons/9/9b/DeadSpace2logo.jpg"
-		},
+			}
 		],
-	 	"profile_details" : {
-	 		"first_name" : "Saikiran",
-			"last_name" : "Bait",
-			"email_id" : "saikiranbait@gmail.com",
-			"gender" : "Male",
-			"date_of_birth" : "07/05/1997",
-			"mobile_number" : "8286756999", 
-	 	}
+		"profile_details" : {}
 	}
 }
