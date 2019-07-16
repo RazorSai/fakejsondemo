@@ -113,8 +113,8 @@
 			"interest" : "",
 			"nick_name" : "",
 			"description" : "We're theives in a world that don't want us anymore......",
-			"marital_status" : 1,
-			"marriage_date" : "12/05/2017"
+			"marital_status" : -1,
+			"marriage_date" : ""
 		}
 	}
 }
