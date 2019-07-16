@@ -108,13 +108,13 @@
 			"last_name" : "Bait",
 			"email_id" : "sai@sai.com",
 			"gender" : "Male",
-			"date_of_birth" : "07/05/1999",
+			"date_of_birth" : "07/05/1992",
 			"mobile_number" : "8286756666",
 			"interest" : "",
 			"nick_name" : "",
 			"description" : "We're theives in a world that don't want us anymore......",
-			"marital_status" : 0,
-			"marriage_date" : ""
+			"marital_status" : 1,
+			"marriage_date" : "12/05/2017"
 		}
 	}
 }
