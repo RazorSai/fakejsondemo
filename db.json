@@ -2,7 +2,7 @@
 	"posts" : [
 		{
 			"postId" : "1",
-			"postUserId" : "121",
+			"postUserId" : "122",
 			"date" : "07/07/2019",
 			"from" : "Saikiran Bait",
 			"fromProfilePic" : "",
@@ -30,7 +30,7 @@
 		},
 		{
 			"postId" : "3",
-			"postUserId" : "121",
+			"postUserId" : "122",
 			"date" : "06/07/2019",
 			"from" : "Saikiran Bait",
 			"fromProfilePic" : "",
@@ -46,11 +46,11 @@
 	"groups" : [
 		{
 			"group_id" : "1",
-			"user_created_id" : "1",
+			"user_created_id" : "122",
 			"name" : "Space and mysteries",
 			"latest_activity" : {
 				"postId" : "1",
-				"postUserId" : "121",
+				"postUserId" : "122",
 				"date" : "07/07/2019",
 				"from" : "Saikiran Bait",
 				"fromProfilePic" : "",
@@ -67,15 +67,15 @@
 	"profile" : {
 		"user_details" : {
 			"profile_pic" : "",
-			"post_count" : 10,
-			"followers_count" : 40,
-			"following_count" : 30,
+			"post_count" : 2,
+			"followers_count" : 6,
+			"following_count" : 3,
 			"description" : "We're theives in a world that don't want us anymore...."
 		},
 		"user_posts" : [
 			{
 			"postId" : "1",
-			"postUserId" : "121",
+			"postUserId" : "122",
 			"date" : "07/07/2019",
 			"from" : "Saikiran Bait",
 			"fromProfilePic" : "",
@@ -89,7 +89,7 @@
 			},
 			{
 			"postId" : "3",
-			"postUserId" : "121",
+			"postUserId" : "122",
 			"date" : "06/07/2019",
 			"from" : "Saikiran Bait",
 			"fromProfilePic" : "",
@@ -103,7 +103,7 @@
 			}
 		],
 		"profile_details" : {
-			"user_id" : "121",
+			"user_id" : "122",
 			"first_name" : "Saikiran",
 			"last_name" : "Bait",
 			"email_id" : "sai@sai.com",
@@ -116,5 +116,54 @@
 			"marital_status" : -1,
 			"marriage_date" : ""
 		}
-	}
+	},
+	"followers":[
+		{
+			"follower_id" : "121",
+			"follower_name" : "Saicharan Bait",
+			"follower_profile" : ""
+		},
+		{
+			"follower_id" : "123",
+			"follower_name" : "Kavita Hande",
+			"follower_profile" : ""
+		},
+		{
+			"follower_id" : "124",
+			"follower_name" : "Devang Khandhar",
+			"follower_profile" : ""
+		},
+		{
+			"follower_id" : "125",
+			"follower_name" : "Dishank Mehta",
+			"follower_profile" : ""
+		},
+		{
+			"follower_id" : "126",
+			"follower_name" : "Nikita Dalvi",
+			"follower_profile" : ""
+		},
+		{
+			"follower_id" : "127",
+			"follower_name" : "Nikhil Hinduja",
+			"follower_profile" : ""
+		}
+	],
+	"following":[
+		{
+			"following_id" : "121",
+			"following_name" : "Saicharan Bait",
+			"following_profile" : ""
+		},
+		{
+			"following_id" : "123",
+			"following_name" : "Kavita Hande",
+			"following_profile" : ""
+		},
+		{
+			"following_id" : "124",
+			"following_name" : "Devang Khandhar",
+			"following_profile" : ""
+		}
+	]
 }
